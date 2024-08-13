@@ -33,9 +33,8 @@ Explore a diverse range of projects that reflect my broad skill set and passion 
 
 ## 🌍 Connect With Me
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/deepakcode07)** - Let’s connect and grow our professional networks.
-- 🌐 **[Portfolio](https://www.yourportfolio.com)** - Check out more about my work and interests.
-- 📧 **[Email](mailto:your.email@example.com)** - I’m open to collaborations and discussions.
+- 💼 **[LinkedIn](https://www.linkedin.com/in/deepak-kumar-das-3402022b1)** - Let’s connect and grow our professional networks.
+- 📧 **[Email](mailto:deepakkumardas2205@gmail.com)** - I’m open to collaborations and discussions.
 
 ## 📊 GitHub Stats
 
