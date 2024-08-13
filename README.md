@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm **Deepak**, known here as **Deepakcode07**. As
 Explore a diverse range of projects that reflect my broad skill set and passion for coding:
 
 - **[PDF-data-extraction-Mining](#)** - This is an advanced Python tool for extracting data from any type of PDF with remarkable accuracy. Powered by PyTesseract, it’s one of the most reliable and powerful solutions for PDF data extraction. Whether you’re dealing with scanned documents or complex layouts, this tool handles it all with precision.
-- **[Project 2 Name](#)** - A web application that integrates Azure services for a seamless experience.
+- **[Chess-game-js](#)** - JavaScript Chess Game built with HTML5, CSS3, and JavaScript. Features an interactive chess board, basic chess engine logic, and responsive design. Perfect for learning front-end development and building a web-based chess game.
 - **[Project 3 Name](#)** - A deep dive into data mining, showcasing advanced data processing and analysis techniques.
 
 ## 🌱 What I’m Currently Working On
