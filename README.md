@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm **Deepak**, known here as **Deepakcode07**. As
 
 Explore a diverse range of projects that reflect my broad skill set and passion for coding:
 
-- **[Project 1 Name](#)** - A powerful AI tool leveraging Python’s best libraries.
+- **[PDF-data-extraction-Mining](#)** - A powerful AI tool leveraging Python’s best libraries.
 - **[Project 2 Name](#)** - A web application that integrates Azure services for a seamless experience.
 - **[Project 3 Name](#)** - A deep dive into data mining, showcasing advanced data processing and analysis techniques.
 
