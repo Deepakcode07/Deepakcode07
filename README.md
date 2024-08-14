@@ -15,13 +15,12 @@ Explore a diverse range of projects that reflect my broad skill set and passion 
 
 - **[PDF-data-extraction-Mining](#)** - This is an advanced Python tool for extracting data from any type of PDF with remarkable accuracy. Powered by PyTesseract, it’s one of the most reliable and powerful solutions for PDF data extraction. Whether you’re dealing with scanned documents or complex layouts, this tool handles it all with precision.
 - **[Chess-game-js](#)** - JavaScript Chess Game built with HTML5, CSS3, and JavaScript. Features an interactive chess board, basic chess engine logic, and responsive design. Perfect for learning front-end development and building a web-based chess game.
-- **[Project 3 Name](#)** - A deep dive into data mining, showcasing advanced data processing and analysis techniques.
-
+- **[Realtime-speech-translation-Azure](#)** - A Python-based Azure Cognitive Services project for real-time speech recognition and translation from any language to multiple languages, including English, French, Tamil, and more.
 ## 🌱 What I’m Currently Working On
 
 - 🌐 Developing **dynamic web applications** - Creating rich user experiences with modern technologies.
 - 📊 **Data Mining Projects** - Working on extracting valuable insights from large datasets.
-- ☁️ **Azure Cloud Integrations** - Building scalable cloud solutions that make use of the latest in cloud computing.
+- ☁️ **Machine Learning projects** - Building a scalable GPT(Generative Pre-trained Transformers) for solving modern day problems.
 
 ## 🛠️ Tech Stack
 
